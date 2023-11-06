@@ -1,3 +1,9 @@
+[![Anchore Syft SBOM scan](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/anchore-syft.yml/badge.svg)](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/anchore-syft.yml)
+
+
+
+
+
 # Expense-tracker-django-expense-tracker
 ![image](https://github.com/Apetree100122/Expense-tracker-django-/assets/124588263/2a1a817d-851f-4ae8-aef4-78e90947c600)
 
