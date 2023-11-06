@@ -1,5 +1,4 @@
-[![Anchore Syft SBOM scan](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/anchore-syft.yml/badge.svg)](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/anchore-syft.yml)
-
+[![Anchore Syft SBOM scan][![CI](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/blank.yml/badge.svg)](https://github.com/Apetree100122/Expense-tracker-django-/actions/workflows/blank.yml)
 
 
 
